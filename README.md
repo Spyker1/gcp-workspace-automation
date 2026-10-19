@@ -1,10 +1,9 @@
-# Turing IA - Periodo de Prueba GCP & Workspace
+# Periodo de Prueba GCP & Workspace
 
 ## Reto Día 1: Configuración Avanzada de Infraestructura en GCP
 
 **Candidato:** Julián Alejandro Rodríguez López  
 **Fecha:** 28 de Septiembre, 2026  
-**Repositorio Oficial:** [github.com/Spyker1/turing-gcp-workspace-challenge](https://github.com/Spyker1/turing-gcp-workspace-challenge)
 
 ---
 
